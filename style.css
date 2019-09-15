@@ -1,0 +1,60 @@
+.container {
+    width:80%;
+    margin:auto;
+    overflow: hidden;
+}
+#header1{
+    background-color: coral;
+    color:forestgreen;
+    text-align: center;
+}
+#navbar{
+    background-color:grey;
+    color:firebrick;   
+}
+#navbar ul{
+    padding:0;
+    list-style: none;
+}
+#navbar li{
+    display:inline;
+}
+#navbar a{
+    color:rgb(46, 10, 175);
+    text-decoration:navy;
+    font-size: 21px;
+    padding-right: 15px;
+}
+#showcase{
+    background-image: url('images/bg2.jpg.jpg');
+    background-position: right center;
+    height:150px;
+    text-align: center;
+}
+#showcase h3{
+    color:bisque;
+    font-size: 30px;
+    padding-top: 25px;
+
+}
+#main {
+   font-family: fantasy;
+   background-color: blueviolet;
+}
+#main h2{
+    text-align: center;
+    height:20px;
+    color:blue;
+}
+#foot1 {
+    background-color:black;
+    color:whitesmoke;
+    text-align: center;
+    padding: 10px;
+    margin-top: 20px;   
+}
+
+
+
+
+
